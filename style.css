@@ -1,0 +1,124 @@
+
+{outline: 2px solid red;
+
+ }
+ 
+ .index{ background-color: aliceblue;}
+.text{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+
+}
+.text-style{
+font-size: 15px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.general{ 
+  width: 800px;
+   margin: auto; padding: 0px;
+    background-color: white;
+    border: solid 2px black;
+     border-radius: 5px;
+ }
+    
+     h3{      
+       color: black;
+        font-size: 40px;
+        font-weight: bold;
+         margin:0px;
+        text-align: center;
+        padding: 5px;
+           }
+     
+    
+ .img{
+   height: 150px;  width: 150px; 
+   margin: 10px;  
+   border-radius: 5%;
+   border: solid 2px black;
+     }
+.gorro{
+  height:25px;  width:auto;
+
+
+}
+.item{ display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;}
+
+#recipes{
+display: flex;
+justify-content: space-around;
+
+}
+.recipes{ display: flex; 
+margin: 5px;
+}
+.list{ 
+border: solid 2px black;
+margin:5px ;
+padding: 5px;
+border-radius: 5px;
+width: 550px;
+float: right;
+}
+
+.ingredients{
+  margin: 5px;
+  padding: 5px;
+  border: solid 2px black;
+  border-radius: 5px;
+  width: 215px;
+  height: auto;
+  float: left;
+
+}
+
+ 
+ol{ list-style-type:none;}
+ 
+     
+.title{color: black;
+  font-family: 'Times New Roman', Times, serif;
+   font-size: 30px; 
+   font-weight:bold;
+    margin: 5px;
+     text-align: center;
+      padding: 5px;
+    }
+
+.principal{}
+
+.comments{
+ 
+  margin: 10px;
+  padding: 5px;
+  border: solid 2px black;
+  border-radius: 5px;
+}
+.other-recipes{
+  
+
+margin:  10px;
+padding: 5px;
+border: solid 2px black;
+border-radius: 5px;
+}
+
+.link-other{
+  display: inline-block;
+  text-align: center;
+
+  margin: 5px;
+  padding: 0px;
+  border: solid 2px black;
+  border-radius: 5px;
+   width: auto ;
+
+}
+h4{text-align:center;}
+
+.item{
