@@ -1,2 +1,2 @@
 # odin-recipes
-proyecto de recetas de odin proyect
+proyecto de odin proyect: en este proyecto queremos corroborar las habilidades en html adquiridas el programa odin proyet. 
